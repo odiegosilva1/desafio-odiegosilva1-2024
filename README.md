@@ -1,4 +1,4 @@
-# Zoo Habitat Finder
+# Zoo Habitate
 
 ## Descrição
 
