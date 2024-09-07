@@ -23,29 +23,6 @@ O projeto contém dois arquivos principais:
 - Node.js
 - Jest para testes
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/odiegosilva1/zoo-habitat-finder.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd zoo-habitat-finder
-   ```
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-## Executando os Testes
-
-Para rodar os testes, utilize o comando:
-
-```bash
-npm test
-```
-
 Os testes verificarão vários cenários, como:
 
 - Validação de animais inválidos.
